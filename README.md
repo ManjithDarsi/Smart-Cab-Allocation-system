@@ -271,3 +271,5 @@ https://drive.google.com/drive/folders/19pFYFNtk_M4D7LHCnGs-dzpYozc9B9bo?usp=sha
 
 Conclusion
 The Smart Cab Allocation System optimizes cab management using real-time data and location-based algorithms. With a robust backend and seamless frontend experience, this platform is built for scalability, security, and efficiency.
+#   S m a r t - C a b - A l l o c a t i o n - s y s t e m  
+ 
